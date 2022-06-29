@@ -1,0 +1,27 @@
+.random-planet-container {
+  display: flex;
+  background-color: #232222;
+  border: 1px solid #3b3b3b;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 40px;
+  .spinner {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .image {
+    height: 250px;
+  }
+  .container-data {
+    color: white;
+    padding-left: 10px;
+    .title {
+      margin-bottom: 0;
+    }
+    .list-item {
+      background-color: #232222;
+      color: white;
+      border: none;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+body,
+html {
+  background-color: #212529;
+  margin: 0;
+  height: 100%;
+  min-height: 100%;
+  .container {
+    max-width: 1170px;
+    padding: 0 15px;
+  }
+  a {
+    text-decoration: none;
+  }
+  ul {
+    list-style: none;
+    li {
+      color: white;
+    }
+  }
+}

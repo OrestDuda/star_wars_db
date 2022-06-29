@@ -1,0 +1,20 @@
+.container-item-list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+  .container-left,
+  .container-right {
+    background-color: #232222;
+    border: 1px solid #3b3b3b;
+    border-radius: 15px;
+    padding: 10px;
+    width: 48%;
+  }
+}
+.planet-list-container {
+  background-color: #232222;
+}
+.spinner {
+  margin-left: auto;
+  margin-right: auto;
+}
